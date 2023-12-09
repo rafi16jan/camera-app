@@ -1,6 +1,6 @@
 {
-    "name": "Camera app",
-    "short_name": "Camera app",
+    "name": "Camera",
+    "short_name": "Camera",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
