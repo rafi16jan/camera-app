@@ -44,5 +44,5 @@ html, body{
 }
 
 #camera--output:not(.taken) {
-    display: none;
+    visibility: hidden;
 }
