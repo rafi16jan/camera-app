@@ -42,3 +42,7 @@ html, body{
     right: 20px;
     z-index: 2;
 }
+
+#camera--output:not(.taken) {
+    display: none;
+}
